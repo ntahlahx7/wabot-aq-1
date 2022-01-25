@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['7922416516']// Put your number here
+global.owner = ['6283141445553']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -85,7 +85,7 @@ gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
 namaig = 'https://instagram.com/bah.raid'
 linkf = gc1
 linkff = namaig
-namabot = 'ChokiBot'
+namabot = 'BOTku'
 namagithub = 'https://github.com/RTeam1'
 gcid = '972502255007-1406453544'
 footer = 'ChokiBot'
